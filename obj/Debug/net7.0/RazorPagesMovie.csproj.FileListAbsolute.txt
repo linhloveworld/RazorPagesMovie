@@ -1,0 +1,8 @@
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.csproj.AssemblyReference.cache
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfo.cs
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\IT\ASP.NET & Winform & WPF C#\RazorPagesMovies\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cs
